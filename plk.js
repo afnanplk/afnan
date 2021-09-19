@@ -1,11 +1,4 @@
-const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
-const fs = require('fs');
-const axios = require('axios');
-const Config = require('../config');
-
-
-       
-    var r_text = new Array ();    
+   var r_text = new Array ();    
 r_text[0] = "98562";
 r_text[1] = "Pink32";
 r_text[2] = "deadman85";
