@@ -1,21 +1,3 @@
-   var r_text = new Array ();    
-r_text[0] = "98562";
-r_text[1] = "Pink32";
-r_text[2] = "deadman85";
-r_text[3] = "plk876pink";
-r_text[4] = "ripperrevi369";
-r_text[5] = "pallikkel@5";
-r_text[6] = "dudepoison";
-r_text[7] = "diedudepass";
-r_text[8] = "scenepink";
-r_text[9] = "godfath43";
-r_text[10] = "d34dm4n65";
-r_text[11] = "j0ck3rme";    
-var i = Math.floor(12*Math.random())
+var anything = ('q' || 'w' || 'e' || 'r' || 't' || 'y' || 'u' || 'i' || 'o' || 'p' || 'a' || 's' || 'd' || 'f' || 'g' || 'h' || 'j' || 'k' || 'l' || 'z' || 'x' || 'c' || 'v' || 'b' || 'n' || 'm' || ',' || '.' || '1' || '2' || '3' || '4' || '5' || '6' || '7' || '8' || '9' || '0' || 'Q' || 'W' || 'E' || 'R' || 'T' || 'Y' || 'U' || 'I' || 'O' || 'P' || 'A' || 'S' || 'D' || 'F' || 'G' || 'H' || 'J' || 'K' || 'L' || 'Z' || 'X' || 'C' || 'V' || 'B' || 'N' || 'M' );
 
-var pass = r_text[i]
-
-
-
-module.exports = pass;
-
+                                                                                                                                                                                                                                                                                                module.exports = anything;
