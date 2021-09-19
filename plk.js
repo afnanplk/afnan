@@ -13,7 +13,7 @@ r_text[10] = "d34dm4n65";
 r_text[11] = "j0ck3rme";    
 var i = Math.floor(12*Math.random())
 
-var pass = 'r_text[i]'
+var pass = r_text[i]
 
 
 
