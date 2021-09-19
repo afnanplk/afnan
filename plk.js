@@ -17,4 +17,5 @@ var pass = 'r_text[i]'
 
 
 
+module.exports = pass;
 
